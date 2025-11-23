@@ -45,7 +45,7 @@ Features analyzed:
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/RKucher1/streamlit-cancer-predict
 cd streamlit-cancer-predict
 ```
 
